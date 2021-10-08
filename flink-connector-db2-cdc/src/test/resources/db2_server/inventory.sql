@@ -38,16 +38,16 @@ CREATE TABLE DB2INST1.PRODUCTS2 (
   WEIGHT FLOAT
 );
 
-INSERT INTO DB2INST1.PRODUCTS(NAME,DESCRIPTION,WEIGHT)
-VALUES ('scooter','Small 2-wheel scooter',3.14),
-       ('car battery','12V car battery',8.1),
-       ('12-pack drill bits','12-pack of drill bits with sizes ranging from #40 to #3',0.8),
-       ('hammer','12oz carpenter''s hammer',0.75),
-       ('hammer','14oz carpenter''s hammer',0.875),
-       ('hammer','16oz carpenter''s hammer',1.0),
-       ('rocks','box of assorted rocks',5.3),
-       ('jacket','water resistent black wind breaker',0.1),
-       ('spare tire','24 inch spare tire',22.2);
+--INSERT INTO DB2INST1.PRODUCTS(NAME,DESCRIPTION,WEIGHT)
+--VALUES ('scooter','Small 2-wheel scooter',3.14),
+--       ('car battery','12V car battery',8.1),
+--       ('12-pack drill bits','12-pack of drill bits with sizes ranging from #40 to #3',0.8),
+--       ('hammer','12oz carpenter''s hammer',0.75),
+--       ('hammer','14oz carpenter''s hammer',0.875),
+--       ('hammer','16oz carpenter''s hammer',1.0),
+--       ('rocks','box of assorted rocks',5.3),
+--       ('jacket','water resistent black wind breaker',0.1),
+--       ('spare tire','24 inch spare tire',22.2);
 
 INSERT INTO DB2INST1.PRODUCTS1(NAME,DESCRIPTION,WEIGHT)
 VALUES ('scooter','Small 2-wheel scooter',3.14),
